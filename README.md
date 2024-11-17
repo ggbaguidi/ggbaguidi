@@ -69,7 +69,7 @@ Relevant coursework: Programming Languages, Web Development, Databases & Data St
 
 # **Projects and Certifications**
 
-**Certificate  AWS Machine Learning Fundamentals Nanodegree Program |**Udacity	 august 2024  
+**Certificate  AWS Machine Learning Fundamentals Nanodegree Program |** Udacity	 august 2024  
 **Give Back 2.0: How to Build a Give Back Project** | Baobab Platform	july 2024  
 **Certificate UPG Sustainability Leader in the Class of 2024 |** United People Global	 july 2024  
 **J.P. Morgan Software Engineering Virtual Experience |** Forage	 july 2024
